@@ -1,0 +1,3 @@
+alice,pass123,1,0
+bob,secure456,1,5
+charlie,guest789,0,0

@@ -1,0 +1,5 @@
+B01,The Hobbit,J.R.R. Tolkien,1
+B02,1984,George Orwell,0
+B03,Dune,Frank Herbert,1
+B04,Foundation,Isaac Asimov,1
+B05,Neuromancer,William Gibson,1
